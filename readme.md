@@ -15,11 +15,11 @@ To set up PyTorch in a containerized environment, you can use either `pip` or `c
 
 3. Using `conda` (Recommended for Anaconda environments)
 
-   If you haven't already, create a new anaconda environment(optional but recommended):
+   1.If you haven't already, create a new anaconda environment(optional but recommended):
    ```bash
    conda create --name myenv python=3.8
    conda activate myenv
    
-   Install PyTorch with CUDA support(adjust the 'pytorch-cuda' version as needed):
-   ```bash
+   2.Install PyTorch with CUDA support(adjust the 'pytorch-cuda' version as needed):
+   
    conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
