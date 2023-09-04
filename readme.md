@@ -1,4 +1,4 @@
-# In this repo, I will be creating a Transformer model and also implement a lot of pretained models and fine tune them to achieve variable results.
+In this repo, I will be creating a Transformer model and also implement a lot of pretained models and fine tune them to achieve variable results.
 
 # Installing PyTorch in a Containerized Environment
 
