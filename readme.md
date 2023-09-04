@@ -1,3 +1,5 @@
+# In this repo, I will be creating a Transformer model and also implement a lot of pretained models and fine tune them to achieve variable results.
+
 # Installing PyTorch in a Containerized Environment
 
 To set up PyTorch in a containerized environment, you can use either `pip` or `conda` based on your preference and requirements. Here are the steps for both methods:
@@ -21,5 +23,5 @@ To set up PyTorch in a containerized environment, you can use either `pip` or `c
    conda activate myenv
    
    2.Install PyTorch with CUDA support(adjust the 'pytorch-cuda' version as needed):
-   
+
    conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
